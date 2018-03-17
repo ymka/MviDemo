@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MviDemo</string>
+    <string name="label_main_screen">Git users</string>
+    <string name="label_user_details_screen">User details</string>
+    <string name="label_user_name">User name:</string>
+    <string name="unknown_user_name">Unknown</string>
+</resources>
